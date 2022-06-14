@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(211, 250, 250);
+}
+.cards{
+         flex-wrap: wrap;
+        justify-content: center;
+}
+        .card{
+            background: rgba(255,255,255,1);
+            padding: 1rem;
+            min-height: 40vh;
+            min-width: 30vw;
+            margin: 1rem;
+        }
+            h1{
+                color: #45B649;
+                margin-bottom: 0.5rem;}
+                .category{
+                    color: black;
+                    font-size: smaller;
+                }
+            
+            .innerCard{
+                background: linear-gradient(to right,#DCE35B,#45B649);
+                padding: 0.5rem;}
+                h3{
+                    margin: 0.5rem;
+                    color: white;}
+                    .category{
+                        color: black;
+                    }
+                
+            
+        
+    
+    
